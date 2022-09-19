@@ -14,9 +14,4 @@ public class DivideBySix {
         }
         return rsl;
     }
-
-    public static void main(String[] args) {
-        System.out.println(checkNumber(6));
-        System.out.println(checkNumber(4));
-    }
 }
